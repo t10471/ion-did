@@ -1,0 +1,15 @@
+{
+  "name": "ion-did",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@decentralized-identity/ion-tools": "github:t10471/ion-tools",
+    "@transmute/jose-ld": "^0.7.0-unstable.66"
+  }
+}
